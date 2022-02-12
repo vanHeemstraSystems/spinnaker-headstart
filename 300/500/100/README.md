@@ -24,7 +24,10 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
-## 600 - Changing your Spinnaker configuration
+## 600 - Changing Your Spinnaker Configuration
 
 See [README.md](./600/README.md)
 
+## 700 - Next Steps
+
+See [README.md](./700/README.md)
